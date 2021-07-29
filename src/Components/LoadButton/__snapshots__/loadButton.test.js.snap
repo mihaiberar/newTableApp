@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoadButton> Snapshot should capture Snapshot of <LoadButton/> component 1`] = `
+<div>
+  <button
+    class="loadBtn"
+  />
+</div>
+`;

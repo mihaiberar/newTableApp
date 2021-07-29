@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should capture <Table /> snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="header"
+    >
+      <input
+        class="searchInput"
+        placeholder="Search"
+        type="text"
+        value=""
+      />
+      <button
+        class="clearBtn"
+      >
+        X
+      </button>
+      <p
+        style="color: white;"
+      >
+        0 rows selected
+      </p>
+      <button
+        class="loadBtn"
+        style="color: black;"
+      >
+        Load 5 rows
+      </button>
+      <button
+        class="loadBtn"
+        style="color: black;"
+      >
+        Load 10 rows
+      </button>
+      <button
+        class="loadBtn"
+        style="color: black;"
+      >
+        Load 20 rows
+      </button>
+      <button
+        class="loadBtn"
+        style="color: black;"
+      >
+        Load 50 rows
+      </button>
+      <button
+        class="loadBtn"
+        style="color: black;"
+      >
+        Load 100 rows
+      </button>
+      <button
+        class="removeRowsBtn"
+      >
+        Remove rows
+      </button>
+    </div>
+    <div
+      class="table"
+    >
+      <div
+        class="tableRow tableHeader"
+      >
+        <div
+          class="tableCell"
+        >
+          <input
+            class="inputCheckBox"
+            readonly=""
+            type="checkbox"
+          />
+        </div>
+        <div
+          class="tableCell"
+        >
+          Edit
+        </div>
+        <div
+          class="tableCell"
+        >
+          Created at
+        </div>
+        <div
+          class="tableCell"
+        >
+          ID
+        </div>
+        <div
+          class="tableCell"
+        >
+          Name
+        </div>
+        <div
+          class="tableCell"
+        >
+          Owner
+        </div>
+        <div
+          class="tableCell"
+        >
+          Updated at
+        </div>
+        <div
+          class="tableCell"
+        >
+          URL
+        </div>
+      </div>
+      <div
+        class="tableRow"
+        style="background-color: rgb(114, 155, 156);"
+      >
+        <div
+          class="tableCell"
+        >
+          <input
+            class="inputCheckBox"
+            readonly=""
+            type="checkbox"
+          />
+        </div>
+        <div
+          class="tableCell"
+        >
+          <a
+            href="/edit/undefined"
+            style="color: black; text-decoration: none;"
+          >
+            <p>
+              Edit
+            </p>
+          </a>
+        </div>
+        <div
+          class="tableCell"
+        >
+          <span />
+        </div>
+        <div
+          class="tableCell"
+        >
+          <span />
+        </div>
+        <div
+          class="tableCell"
+        >
+          <span>
+            Mihai
+          </span>
+        </div>
+        <div
+          class="tableCell"
+        >
+          <span />
+        </div>
+        <div
+          class="tableCell"
+        >
+          <span />
+        </div>
+        <div
+          class="tableCell"
+        >
+          <span />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

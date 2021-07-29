@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`componentToTest should capture Snapshot of <EditPage/> component 1`] = `
+<div>
+  <div
+    class="editPage"
+  >
+    <div
+      class="editHeader"
+    >
+      <h1>
+        Edit:
+      </h1>
+      <button
+        style="width: 30px; height: 30px; margin-top: 30px; margin-left: 30px; background-color: rgb(241, 41, 41);"
+      >
+        ✎
+      </button>
+    </div>
+    <div
+      class="idName"
+    >
+      <input
+        class="idInput"
+        name="id"
+        placeholder="id"
+        readonly=""
+        type="text"
+        value=""
+      />
+      <input
+        class="nameInput"
+        name="name"
+        placeholder="name"
+        readonly=""
+        style="outline: none;"
+        type="text"
+        value="Mihai"
+      />
+    </div>
+    <div
+      class="ownerUpdateAt"
+    >
+      <input
+        class="ownerInput"
+        name="owner"
+        placeholder="owner"
+        readonly=""
+        style="outline: none;"
+        type="text"
+        value=""
+      />
+      <input
+        class="updatedAtInput"
+        name="updated at"
+        placeholder="updated at"
+        readonly=""
+        style="outline: none;"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      class="cancelSaveBtns"
+    >
+      <a
+        href="/"
+      >
+        <button
+          class="cancelBtn"
+        >
+          Cancel
+        </button>
+      </a>
+      <a
+        href="/"
+      >
+        <button
+          class="saveBtn"
+        >
+          Save
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
+`;
